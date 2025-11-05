@@ -48,12 +48,12 @@ Esto levantará el backend en:
 | DELETE  | `/api/usuarios/{id}`      | Eliminar usuario            |
 
 
-##FRONT END 
-C:\xampp\htdocs\crud-frontend
+#FRONT END 
+##C:\xampp\htdocs\crud-frontend
 
 Para Correrlo 
-cd C:\xampp\htdocs\crud-frontend
-php -S localhost:8080
+##C:\xampp\htdocs\crud-frontend
+###php -S localhost:8080
 
 
 
